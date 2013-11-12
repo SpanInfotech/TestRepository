@@ -1,0 +1,4 @@
+D:\OWIN\SignalRSelfHost\JavascriptClient\bin\JavascriptClient.dll
+D:\OWIN\SignalRSelfHost\JavascriptClient\bin\JavascriptClient.pdb
+D:\OWIN\SignalRSelfHost\JavascriptClient\obj\Debug\JavascriptClient.dll
+D:\OWIN\SignalRSelfHost\JavascriptClient\obj\Debug\JavascriptClient.pdb
